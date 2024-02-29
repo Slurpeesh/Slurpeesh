@@ -4,10 +4,10 @@
 ## Socials
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Slurpeesh)
 
-## Stats
+## 📈 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slurpeesh&layout=donut-vertical&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
-## 💼 Skills
+## ⚙️ Skills
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&labelColor=rgb(30,30,46)&color=rgb(30,30,46))
 ![React Badge](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&labelColor=rgb(30,30,46)&color=rgb(30,30,46))
 ![React_Router Badge](https://img.shields.io/badge/React_Router-informational?style=for-the-badge&logo=react-router&labelColor=rgb(30,30,46)&color=rgb(30,30,46))
