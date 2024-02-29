@@ -1,10 +1,10 @@
 ### Hi there 👋
 #### I'm Slava. I do user interface development, mostly creating frontend applications.
 
-### Socials
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+## Socials
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Slurpeesh)
 
+## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slurpeesh&layout=donut-vertical&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 Skills
