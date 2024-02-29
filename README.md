@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm Slava. I do user interface development, mostly creating frontend applications.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slurpeesh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slurpeesh&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Slurpeesh/Slurpeesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
