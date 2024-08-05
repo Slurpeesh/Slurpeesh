@@ -23,6 +23,7 @@
 ![HTML Badge](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&labelColor=rgb(30,30,46)&color=rgb(30,30,46))
 ![CSS Badge](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&labelColor=rgb(30,30,46)&color=rgb(30,30,46)&logoColor=blue)
 
+![Socket.io](https://img.shields.io/badge/Socket.io-informational?style=for-the-badge&logo=socket.io&labelColor=rgb(30,30,46)&color=rgb(30,30,46))
 ![Python Badge](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&labelColor=rgb(30,30,46)&color=rgb(30,30,46))
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-informational?style=for-the-badge&logo=kotlin&labelColor=rgb(30,30,46)&color=rgb(30,30,46))
 ![Figma Badge](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&labelColor=rgb(30,30,46)&color=rgb(30,30,46))
